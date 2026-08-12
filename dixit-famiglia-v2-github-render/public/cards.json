@@ -1,0 +1,850 @@
+[
+  {
+    "id": 1,
+    "sheet": "cards/sheet_01.webp",
+    "x": 0,
+    "y": 0,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 2,
+    "sheet": "cards/sheet_01.webp",
+    "x": 1,
+    "y": 0,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 3,
+    "sheet": "cards/sheet_01.webp",
+    "x": 2,
+    "y": 0,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 4,
+    "sheet": "cards/sheet_01.webp",
+    "x": 3,
+    "y": 0,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 5,
+    "sheet": "cards/sheet_01.webp",
+    "x": 0,
+    "y": 1,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 6,
+    "sheet": "cards/sheet_01.webp",
+    "x": 1,
+    "y": 1,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 7,
+    "sheet": "cards/sheet_01.webp",
+    "x": 2,
+    "y": 1,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 8,
+    "sheet": "cards/sheet_01.webp",
+    "x": 3,
+    "y": 1,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 9,
+    "sheet": "cards/sheet_01.webp",
+    "x": 0,
+    "y": 2,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 10,
+    "sheet": "cards/sheet_01.webp",
+    "x": 1,
+    "y": 2,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 11,
+    "sheet": "cards/sheet_01.webp",
+    "x": 2,
+    "y": 2,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 12,
+    "sheet": "cards/sheet_01.webp",
+    "x": 3,
+    "y": 2,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 13,
+    "sheet": "cards/sheet_01.webp",
+    "x": 0,
+    "y": 3,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 14,
+    "sheet": "cards/sheet_01.webp",
+    "x": 1,
+    "y": 3,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 15,
+    "sheet": "cards/sheet_01.webp",
+    "x": 2,
+    "y": 3,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 16,
+    "sheet": "cards/sheet_01.webp",
+    "x": 3,
+    "y": 3,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 17,
+    "sheet": "cards/sheet_02.webp",
+    "x": 0,
+    "y": 0,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 18,
+    "sheet": "cards/sheet_02.webp",
+    "x": 1,
+    "y": 0,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 19,
+    "sheet": "cards/sheet_02.webp",
+    "x": 2,
+    "y": 0,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 20,
+    "sheet": "cards/sheet_02.webp",
+    "x": 3,
+    "y": 0,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 21,
+    "sheet": "cards/sheet_02.webp",
+    "x": 0,
+    "y": 1,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 22,
+    "sheet": "cards/sheet_02.webp",
+    "x": 1,
+    "y": 1,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 23,
+    "sheet": "cards/sheet_02.webp",
+    "x": 2,
+    "y": 1,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 24,
+    "sheet": "cards/sheet_02.webp",
+    "x": 3,
+    "y": 1,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 25,
+    "sheet": "cards/sheet_02.webp",
+    "x": 0,
+    "y": 2,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 26,
+    "sheet": "cards/sheet_02.webp",
+    "x": 1,
+    "y": 2,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 27,
+    "sheet": "cards/sheet_02.webp",
+    "x": 2,
+    "y": 2,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 28,
+    "sheet": "cards/sheet_02.webp",
+    "x": 3,
+    "y": 2,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 29,
+    "sheet": "cards/sheet_02.webp",
+    "x": 0,
+    "y": 3,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 30,
+    "sheet": "cards/sheet_02.webp",
+    "x": 1,
+    "y": 3,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 31,
+    "sheet": "cards/sheet_02.webp",
+    "x": 2,
+    "y": 3,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 32,
+    "sheet": "cards/sheet_02.webp",
+    "x": 3,
+    "y": 3,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 33,
+    "sheet": "cards/sheet_03.webp",
+    "x": 0,
+    "y": 0,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 34,
+    "sheet": "cards/sheet_03.webp",
+    "x": 1,
+    "y": 0,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 35,
+    "sheet": "cards/sheet_03.webp",
+    "x": 2,
+    "y": 0,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 36,
+    "sheet": "cards/sheet_03.webp",
+    "x": 3,
+    "y": 0,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 37,
+    "sheet": "cards/sheet_03.webp",
+    "x": 0,
+    "y": 1,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 38,
+    "sheet": "cards/sheet_03.webp",
+    "x": 1,
+    "y": 1,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 39,
+    "sheet": "cards/sheet_03.webp",
+    "x": 2,
+    "y": 1,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 40,
+    "sheet": "cards/sheet_03.webp",
+    "x": 3,
+    "y": 1,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 41,
+    "sheet": "cards/sheet_03.webp",
+    "x": 0,
+    "y": 2,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 42,
+    "sheet": "cards/sheet_03.webp",
+    "x": 1,
+    "y": 2,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 43,
+    "sheet": "cards/sheet_03.webp",
+    "x": 2,
+    "y": 2,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 44,
+    "sheet": "cards/sheet_03.webp",
+    "x": 3,
+    "y": 2,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 45,
+    "sheet": "cards/sheet_03.webp",
+    "x": 0,
+    "y": 3,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 46,
+    "sheet": "cards/sheet_03.webp",
+    "x": 1,
+    "y": 3,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 47,
+    "sheet": "cards/sheet_03.webp",
+    "x": 2,
+    "y": 3,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 48,
+    "sheet": "cards/sheet_03.webp",
+    "x": 3,
+    "y": 3,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 49,
+    "sheet": "cards/sheet_04.webp",
+    "x": 0,
+    "y": 0,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 50,
+    "sheet": "cards/sheet_04.webp",
+    "x": 1,
+    "y": 0,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 51,
+    "sheet": "cards/sheet_04.webp",
+    "x": 2,
+    "y": 0,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 52,
+    "sheet": "cards/sheet_04.webp",
+    "x": 3,
+    "y": 0,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 53,
+    "sheet": "cards/sheet_04.webp",
+    "x": 0,
+    "y": 1,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 54,
+    "sheet": "cards/sheet_04.webp",
+    "x": 1,
+    "y": 1,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 55,
+    "sheet": "cards/sheet_04.webp",
+    "x": 2,
+    "y": 1,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 56,
+    "sheet": "cards/sheet_04.webp",
+    "x": 3,
+    "y": 1,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 57,
+    "sheet": "cards/sheet_04.webp",
+    "x": 0,
+    "y": 2,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 58,
+    "sheet": "cards/sheet_04.webp",
+    "x": 1,
+    "y": 2,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 59,
+    "sheet": "cards/sheet_04.webp",
+    "x": 2,
+    "y": 2,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 60,
+    "sheet": "cards/sheet_04.webp",
+    "x": 3,
+    "y": 2,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 61,
+    "sheet": "cards/sheet_04.webp",
+    "x": 0,
+    "y": 3,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 62,
+    "sheet": "cards/sheet_04.webp",
+    "x": 1,
+    "y": 3,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 63,
+    "sheet": "cards/sheet_04.webp",
+    "x": 2,
+    "y": 3,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 64,
+    "sheet": "cards/sheet_04.webp",
+    "x": 3,
+    "y": 3,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 65,
+    "sheet": "cards/sheet_05.webp",
+    "x": 0,
+    "y": 0,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 66,
+    "sheet": "cards/sheet_05.webp",
+    "x": 1,
+    "y": 0,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 67,
+    "sheet": "cards/sheet_05.webp",
+    "x": 2,
+    "y": 0,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 68,
+    "sheet": "cards/sheet_05.webp",
+    "x": 3,
+    "y": 0,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 69,
+    "sheet": "cards/sheet_05.webp",
+    "x": 0,
+    "y": 1,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 70,
+    "sheet": "cards/sheet_05.webp",
+    "x": 1,
+    "y": 1,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 71,
+    "sheet": "cards/sheet_05.webp",
+    "x": 2,
+    "y": 1,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 72,
+    "sheet": "cards/sheet_05.webp",
+    "x": 3,
+    "y": 1,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 73,
+    "sheet": "cards/sheet_05.webp",
+    "x": 0,
+    "y": 2,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 74,
+    "sheet": "cards/sheet_05.webp",
+    "x": 1,
+    "y": 2,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 75,
+    "sheet": "cards/sheet_05.webp",
+    "x": 2,
+    "y": 2,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 76,
+    "sheet": "cards/sheet_05.webp",
+    "x": 3,
+    "y": 2,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 77,
+    "sheet": "cards/sheet_05.webp",
+    "x": 0,
+    "y": 3,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 78,
+    "sheet": "cards/sheet_05.webp",
+    "x": 1,
+    "y": 3,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 79,
+    "sheet": "cards/sheet_05.webp",
+    "x": 2,
+    "y": 3,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 80,
+    "sheet": "cards/sheet_05.webp",
+    "x": 3,
+    "y": 3,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 81,
+    "sheet": "cards/sheet_06.webp",
+    "x": 0,
+    "y": 0,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 82,
+    "sheet": "cards/sheet_06.webp",
+    "x": 1,
+    "y": 0,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 83,
+    "sheet": "cards/sheet_06.webp",
+    "x": 2,
+    "y": 0,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 84,
+    "sheet": "cards/sheet_06.webp",
+    "x": 3,
+    "y": 0,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 85,
+    "sheet": "cards/sheet_06.webp",
+    "x": 0,
+    "y": 1,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 86,
+    "sheet": "cards/sheet_06.webp",
+    "x": 1,
+    "y": 1,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 87,
+    "sheet": "cards/sheet_06.webp",
+    "x": 2,
+    "y": 1,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 88,
+    "sheet": "cards/sheet_06.webp",
+    "x": 3,
+    "y": 1,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 89,
+    "sheet": "cards/sheet_06.webp",
+    "x": 0,
+    "y": 2,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 90,
+    "sheet": "cards/sheet_06.webp",
+    "x": 1,
+    "y": 2,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 91,
+    "sheet": "cards/sheet_06.webp",
+    "x": 2,
+    "y": 2,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 92,
+    "sheet": "cards/sheet_06.webp",
+    "x": 3,
+    "y": 2,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 93,
+    "sheet": "cards/sheet_06.webp",
+    "x": 0,
+    "y": 3,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 94,
+    "sheet": "cards/sheet_06.webp",
+    "x": 1,
+    "y": 3,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 95,
+    "sheet": "cards/sheet_06.webp",
+    "x": 2,
+    "y": 3,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 96,
+    "sheet": "cards/sheet_06.webp",
+    "x": 3,
+    "y": 3,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 97,
+    "sheet": "cards/sheet_07.webp",
+    "x": 0,
+    "y": 0,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 98,
+    "sheet": "cards/sheet_07.webp",
+    "x": 1,
+    "y": 0,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 99,
+    "sheet": "cards/sheet_07.webp",
+    "x": 2,
+    "y": 0,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 100,
+    "sheet": "cards/sheet_07.webp",
+    "x": 3,
+    "y": 0,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 101,
+    "sheet": "cards/sheet_07.webp",
+    "x": 0,
+    "y": 1,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 102,
+    "sheet": "cards/sheet_07.webp",
+    "x": 1,
+    "y": 1,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 103,
+    "sheet": "cards/sheet_07.webp",
+    "x": 2,
+    "y": 1,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 104,
+    "sheet": "cards/sheet_07.webp",
+    "x": 3,
+    "y": 1,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 105,
+    "sheet": "cards/sheet_07.webp",
+    "x": 0,
+    "y": 2,
+    "cols": 4,
+    "rows": 4
+  },
+  {
+    "id": 106,
+    "sheet": "cards/sheet_07.webp",
+    "x": 1,
+    "y": 2,
+    "cols": 4,
+    "rows": 4
+  }
+]
